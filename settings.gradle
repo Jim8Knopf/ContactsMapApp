@@ -1,0 +1,5 @@
+rootProject.name = "ContactsMapApp"
+
+include(":app")
+include(":contacts")
+include(":map")

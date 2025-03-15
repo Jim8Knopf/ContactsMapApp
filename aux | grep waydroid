@@ -1,0 +1,14 @@
+○ waydroid-container.service - Waydroid Container
+     Loaded: loaded (]8;;file://ThinkPad/usr/lib/systemd/system/waydroid-container.service\/usr/lib/systemd/system/waydroid-container.service]8;;\; [0;1;38:5:185mdisabled[0m; preset: [0;1;38:5:185mdisabled[0m)
+     Active: inactive (dead)
+
+Mar 15 13:05:19 ThinkPad systemd[1]: Stopping Waydroid Container...
+Mar 15 13:05:19 ThinkPad waydroid[10189]: [gbinder] Service manager /dev/binder has appeared
+Mar 15 13:05:19 ThinkPad waydroid[10189]: [gbinder] WARNING: Service manager /dev/binder has died
+Mar 15 13:05:19 ThinkPad systemd[1]: waydroid-container.service: Deactivated successfully.
+Mar 15 13:05:19 ThinkPad systemd[1]: Stopped Waydroid Container.
+Mar 15 13:05:19 ThinkPad systemd[1]: Starting Waydroid Container...
+Mar 15 13:05:19 ThinkPad systemd[1]: Started Waydroid Container.
+Mar 15 13:16:05 ThinkPad systemd[1]: Stopping Waydroid Container...
+Mar 15 13:16:05 ThinkPad systemd[1]: waydroid-container.service: Deactivated successfully.
+Mar 15 13:16:05 ThinkPad systemd[1]: Stopped Waydroid Container.
